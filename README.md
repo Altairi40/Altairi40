@@ -19,11 +19,9 @@
 
 ## 📊GitHub Stats:
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altairi40&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api?username=Altairi40&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Altairi40&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Altairi40&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Altairi40&theme=2077)
+
 
 <br>
 
