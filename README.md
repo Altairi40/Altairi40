@@ -12,6 +12,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="90" height="90"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="90" height="90"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="90" height="90"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="90" height="90"/>       
+          
 </div>
 
 <br><br>
@@ -34,6 +37,5 @@
 
 ## ✉Redes Sociais/Contatos:
 <a href="http://www.linkedin.com/in/lucas-fonseca-shiraoka-aa8572295" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="120"></a>
-<br>
-<a href="mailto:lucksfshira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="120" height="120"></a>
+<a href="mailto:lucksfshira@gmail.com"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/-lucksfshira@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" target="_blank" width="300" height="300"></a>
 <br><br>
