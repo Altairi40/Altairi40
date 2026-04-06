@@ -28,6 +28,3 @@
 <a href="http://www.linkedin.com/in/lucas-fonseca-shiraoka-aa8572295" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="120"></a><br>
 <a href = "lucksfshira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="120" height="120"></a>
 <br><br>
-
-### ✨E só para quem quiser se distrair em seu tempo livre, pode dar uma olhada no meu canal do Youtube...
-<a href="https://www.youtube.com/channel/UC1PS65IGuDEpcwFDrsEx81w" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" width="120" height="120"></a>
