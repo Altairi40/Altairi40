@@ -6,7 +6,7 @@
  ### Tecnólogo em Análise e Desenvolvimento de Sistemas<br> Unicid - Universidade Cidade de São Paulo. (previsão de formação - 12/26).
 <br>
 
-## 💻Linguagens e IDE:
+## 💻Linguagens e Tecnologias:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="90" height="90"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="90" height="90"/> 
