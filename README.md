@@ -30,6 +30,6 @@
 <br>
 
 ## ✉Redes Sociais/Contatos:
-<a href="http://www.linkedin.com/in/lucas-fonseca-shiraoka-aa8572295" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="120"></a>
-<a href="mailto:lucksfshira@gmail.com"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/-lucksfshira@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" target="_blank" width="300" height="300"></a>
+<a href="http://www.linkedin.com/in/lucas-fonseca-shiraoka-aa8572295" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120"></a> <a 
+ href="mailto:lucksfshira@gmail.com"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/-lucksfshira@gmail.com-red?style=for-thebadge&logo=mention&logoColor=white" target="_blank" width="300"></a>
 <br><br>
