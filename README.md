@@ -15,7 +15,7 @@
 
 ## 📚Projetos / Testes em Destaque:
 
-### -Caixa Eletrônico com Java (Em Desenvolvimento)
+### -Caixa Eletrônico com Java (Concluído)
 ### -Maquina de Banho de Petshops com Java (Concluído)
 ### -Jogos simples (Forca, Jogo da Velha) com Python (Concluído)
 
