@@ -15,6 +15,7 @@
 
 ## 📚Projetos / Testes em Destaque:
 
+### -Sistema Acadêmico com Java e phpMyAdmin (Concluído)
 ### -Caixa Eletrônico com Java (Concluído)
 ### -Maquina de Banho de Petshops com Java (Concluído)
 ### -Jogos simples (Forca, Jogo da Velha) com Python (Concluído)
