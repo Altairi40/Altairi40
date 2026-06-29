@@ -25,7 +25,7 @@
 ## 📊GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Altairi40&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Altairi40&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Altairi40&theme=2077)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Altairi40&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Altairi40&theme=2077)
 
 
 <br>
