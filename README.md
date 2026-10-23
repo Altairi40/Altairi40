@@ -44,11 +44,9 @@ Desenvolvedor de Software em consolidação no mercado, focado na construção d
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altairi40&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Altairi40&theme=radical&hide_border=true" alt="Sequência de Contribuições" /> 
 </div>
 
-<br />
-
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altairi40&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altairi40&theme=radical&hide_border=true" alt="Sequência de Contribuições" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altairi40&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altairi40&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
