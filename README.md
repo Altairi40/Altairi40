@@ -1,36 +1,54 @@
-# 👨🏻‍💻Lucas Fonseca Shiraoka
-<br><br>
+<div align="center">
+  <h1>Lucas Fonseca Shiraoka</h1>
+  <p><strong>Desenvolvedor Java | Estudante de Análise e Desenvolvimento de Sistemas</strong></p>
 
-## 🎓Formação:
-
- ### Tecnólogo em Análise e Desenvolvimento de Sistemas<br> Unicid - Universidade Cidade de São Paulo. (previsão de formação - 12/26).
-<br>
-
-## 💻Linguagens e Tecnologias:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="100" title="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="100" title="IntelliJ" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100" title="Azure SQL" /> 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lucas-fonseca-shiraoka-aa8572295)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfshiraoka@gmail.com)
 </div>
 
-<br><br>
+<br />
 
-## 📚Projetos / Testes em Destaque:
+## 🚀 Sobre Mim
 
-### -Sistema Acadêmico com Java e phpMyAdmin (Concluído)
-### -Caixa Eletrônico com Java (Concluído)
-### -Maquina de Banho de Petshops com Java (Concluído)
-### -Jogos simples (Forca, Jogo da Velha) com Python (Concluído)
+Desenvolvedor de Software em consolidação no mercado, focado na construção de soluções sólidas, eficientes e escaláveis utilizando o ecossistema **Java**.
 
-<br><br>
+🎓 **Formação:** Graduando no último semestre do tecnólogo em **Análise e Desenvolvimento de Sistemas** pela UNICID (Previsão de conclusão: 12/2026).  
+💡 **Foco Atual:** Aperfeiçoamento em Arquitetura de Software, Orientação a Objetos e desenvolvimento Backend moderno.
 
-## 📊GitHub Stats:
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Altairi40&theme=2077)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Altairi40&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Altairi40&theme=2077)
+## 🛠️ Habilidades & Tecnologias
 
+### ⚡ Principal Stack (Backend)
+> Minha principal linguagem de desenvolvimento e ambiente diário de trabalho.
 
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" title="Java" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+</div>
 
-## ✉Redes Sociais/Contatos:
-<a href="http://www.linkedin.com/in/lucas-fonseca-shiraoka-aa8572295" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120"></a> <a 
- href="mailto:lucksfshira@gmail.com"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/-lucksfshira@gmail.com-red?style=for-thebadge&logo=mention&logoColor=white" target="_blank" width="300"></a>
-<br><br>
+<br />
+
+### 📊 Banco de Dados & Modelagem (Secundário)
+> Experiência na criação de diagramas ER (DER), consultas e análise de dados.
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" title="MySQL" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" title="Azure SQL" alt="Azure SQL" />
+</div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altairi40&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+</div>
+
+<br />
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altairi40&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altairi40&theme=radical&hide_border=true" alt="Sequência de Contribuições" /> 
+</div>
